@@ -50,7 +50,7 @@ img {
 }
 
 .body {
-  background-image: url(../images/mainPicture.jpg);
+  background-image: url(images/mainPicture.jpg);
   background-size: contain;
   height: 380px;
 }
